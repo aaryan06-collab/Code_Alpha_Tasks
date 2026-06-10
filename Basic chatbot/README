@@ -1,0 +1,37 @@
+
+---
+
+# 🤖 Basic Chatbot
+
+```md
+# 🤖 Basic Chatbot
+
+A simple rule-based chatbot built using Python that responds to predefined user messages.
+
+## 📌 Features
+
+- Interactive conversation
+- Greeting responses
+- Basic question answering
+- Exit command support
+- Easy to customize
+
+## 🛠️ Technologies Used
+- Python 3
+
+💬 Supported Commands
+User Input	           Bot Response
+hello / hi	           Hello!!
+how are you	           I am fine. Thanks!!
+what is your name	     My name is chatbot.
+bye	                   Goodbye!
+
+📚 Learning Outcomes
+Functions in Python
+String manipulation
+Conditional statements
+User interaction
+Basic NLP concepts
+
+👨‍💻 Author
+Aaryan
