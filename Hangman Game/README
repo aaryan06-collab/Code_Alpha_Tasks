@@ -1,0 +1,34 @@
+# 🎮 Hangman Game
+
+A simple Python-based Hangman Game where players guess a hidden word one letter at a time before running out of chances.
+
+## 📌 Features
+
+- Random word selection
+- Letter-by-letter guessing
+- Tracks remaining chances
+- Win and lose conditions
+- Beginner-friendly Python project
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Random Module
+
+🎯 Gameplay
+The game randomly selects a word.
+You have 6 chances to guess the word.
+Enter one letter at a time.
+Correct guesses reveal letters.
+Incorrect guesses reduce remaining chances.
+Guess the word before your chances run out.
+
+📚 Learning Outcomes
+Working with lists
+Loops and conditions
+User input handling
+Random module usage
+Basic game development logic
+
+👨‍💻 Author
+Aaryan
