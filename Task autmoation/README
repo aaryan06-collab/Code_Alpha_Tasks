@@ -1,0 +1,50 @@
+
+---
+
+# 📂 Task Automation Tool
+
+```md
+# 📂 Task Automation Tool
+
+A Python automation utility that helps perform common file-management tasks automatically.
+
+## 📌 Features
+
+### Task 1: JPG File Organizer
+- Finds all JPG files in the current directory
+- Moves them to a specified folder
+- Validates destination path
+
+### Task 2: Email Extractor
+- Reads a text file
+- Extracts email addresses using Regular Expressions (Regex)
+- Saves extracted emails separately
+
+## 🛠️ Technologies Used
+
+- Python 3
+- OS Module
+- Shutil Module
+- Regular Expressions (re)
+
+📋 Available Tasks
+1️⃣ Move JPG Files
+Scans the current directory
+Detects all .jpg files
+Moves them to a user-selected folder
+2️⃣ Extract Email Addresses
+Reads content from a text file
+Uses Regex pattern matching
+Extracts all email addresses
+Saves results for future use
+
+
+📚 Learning Outcomes
+File handling
+Directory management
+Automation scripting
+Regex pattern matching
+Python standard libraries
+
+👨‍💻 Author
+Aaryan
